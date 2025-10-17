@@ -1683,3 +1683,5 @@ fun emit_action(pet: &Pet, action: vector<u8>) {
 
 1. Apa yang terjadi jika kamu menghapus ability `store` dari `PetStats`?
 2. Mengapa Clock object adalah shared object bukan owned object?
+#   t a m a g o s u i - d e v - w o r k s h o p - 2  
+ 
